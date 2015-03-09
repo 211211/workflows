@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "workflows",
   "version": "0.0.1",
   "description": "a project to showcase workflows",
   "main": "index.js",
@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "quan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
 }
